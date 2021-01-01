@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Shutong-Song/Shutong-Song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I am a data enthusiast 👋
 
 Here are some ideas to get you started:
 
