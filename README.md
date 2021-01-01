@@ -1,4 +1,4 @@
-### Hi, I am a data enthusiast - [mywebsite](https://simonsong004.wixsite.com/mysite)👋
+### Hi, I am a data enthusiast - [Techthoughts](https://simonsong004.wixsite.com/mysite)👋
 
 Here are some ideas to get you started:
 
@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
