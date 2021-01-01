@@ -1,4 +1,4 @@
-### Hi, I am a data enthusiast 👋
+### Hi, I am a data enthusiast - [mywebsite](https://simonsong004.wixsite.com/mysite)👋
 
 Here are some ideas to get you started:
 
