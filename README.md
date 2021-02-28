@@ -1,9 +1,10 @@
-### Hi, I am a data enthusiast - [Techthoughts](https://simonsong004.wixsite.com/mysite)👋
+## Hi, I am a data enthusiast - [Techthoughts](https://simonsong004.wixsite.com/mysite)👋
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on imge segmentation and text mining on grocery receipts 
+- 🌱 I’m currently learning Bayesian inference and graph theory.
+<!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -12,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Connect with me:
+## Connect with me:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  />](http://twitter.com/Simon08510011)
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />](https://www.linkedin.com/in/shutong-song-516bb1202/)
 
 <br/>
 
-### Skills:
+## Skills:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://simonsong004.wixsite.com/mysite)
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](https://simonsong004.wixsite.com/mysite)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://simonsong004.wixsite.com/mysite)
