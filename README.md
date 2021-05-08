@@ -4,7 +4,7 @@ About me:
 
 - 🔭 I’m currently working on imge segmentation and text mining on grocery receipts 
 - 🌱 I’m currently learning Bayesian inference and graph theory.
-- 😄 Take a look at my project Portfolio [here](https://simonsong004.wixsite.com/mysite)
+- 😄 Take a look at my project Portfolio [here](https://songtechs.wordpress.com/)
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
