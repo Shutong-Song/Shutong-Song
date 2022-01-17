@@ -4,7 +4,7 @@ About me:
 
 - 🔭 I’m currently working on receipt digitizing using text mining 
 - 🌱 I’m currently learning Bayesian inference and graph theory.
-- 😄 Take a look at my project Portfolio [here](https://shutong-song.github.io/)
+<!-- - 😄 Take a look at my project Portfolio [here](https://shutong-song.github.io/) -->
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
